@@ -1,0 +1,2 @@
+# saved data (per character) lives in the game install, not here
+*.json
